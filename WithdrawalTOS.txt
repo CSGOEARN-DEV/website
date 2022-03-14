@@ -1,0 +1,5 @@
+Withdrawal Condition & Usefull INFO
+
+1.Skins under 3.5$ can be withdrawn within the available stock
+2.You can request a skin that is not in stock if its value is over 3.5$
+3.We use steam market prices 
